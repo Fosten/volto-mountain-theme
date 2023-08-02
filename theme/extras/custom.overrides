@@ -6,3 +6,5 @@
 @import 'header';
 @import 'navigation';
 @import 'search';
+@import 'table';
+@import 'teaser';
