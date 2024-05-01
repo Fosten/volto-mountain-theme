@@ -16,15 +16,7 @@ import { Logo } from '@plone/volto/components';
  * @returns {string} Markup of the component
  */
 const Footer = ({ intl }) => (
-  <Segment
-    role="contentinfo"
-    vertical
-    padded
-    inverted
-    color="grey"
-    textAlign="center"
-    id="footer"
-  >
+  <Segment role="contentinfo" vertical padded inverted color="grey" textAlign="center" id="footer">
     <Container>
       <Segment basic inverted color="grey" className="discreet">
         <div className="footersitemap">
