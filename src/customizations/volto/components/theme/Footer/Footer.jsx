@@ -84,15 +84,16 @@ const Footer = ({ intl }) => (
             <div className="site-email">
               <a href="mailto:info@lillymountain.com">info@lillymountain.com</a>
             </div>
-            <div className="youtube"></div>
-            <div className="twitter">
+            <div className="powered-by-plone">
               <a href="https://plone.org" target="_blank" rel="noreferrer">
                 Powered by Plone
               </a>
             </div>
-            <div className="facebook"></div>
             <div className="accessibility">
               <a href="/accessibility">Accessibility</a>
+            </div>
+            <div className="sitemap">
+              <a href="/sitemap">Sitemap</a>
             </div>
           </div>
         </div>
