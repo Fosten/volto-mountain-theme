@@ -22,49 +22,49 @@ const Footer = ({ intl }) => (
         <div className="footersitemap">
           <div className="footercol1">
             <h2>
-              <a href="/gardens">Gardens</a>
+              <a href="/land-preservation/gardens">Gardens</a>
             </h2>
             <ul>
               <li>
-                <a href="/gardens/vegetables">Vegetables</a>
+                <a href="/healthy-food-plants/vegetables">Vegetables</a>
               </li>
               <li>
-                <a href="/gardens/flowers">Flowers</a>
+                <a href="/healthy-food-plants/perennial-flowers">Flowers</a>
               </li>
               <li>
-                <a href="/gardens/crop-rotation">Crop Rotation</a>
+                <a href="/regenerative-practices/crop-rotation">Crop Rotation</a>
               </li>
             </ul>
           </div>
           <div className="footercol2">
             <h2>
-              <a href="/chickens">Chickens</a>
+              <a href="/land-preservation/chickens">Chickens</a>
             </h2>
             <ul>
               <li>
-                <a href="/chickens/egg-layers">Egg Layers</a>
+                <a href="/land-preservation/chickens/egg-layers">Egg Layers</a>
               </li>
               <li>
-                <a href="/chickens/meat-broilers">Meat Broilers</a>
+                <a href="/land-preservation/chickens/meat-broilers">Meat Broilers</a>
               </li>
               <li>
-                <a href="/chickens/free-range">Free Range</a>
+                <a href="/regenerative-practices/free-range">Free Range</a>
               </li>
             </ul>
           </div>
           <div className="footercol3">
             <h2>
-              <a href="/orchards">Orchards</a>
+              <a href="/land-preservation/orchards">Orchards</a>
             </h2>
             <ul>
               <li>
-                <a href="/orchards/apples">Apples</a>
+                <a href="/land-preservation/orchards/apples">Apples</a>
               </li>
               <li>
-                <a href="/orchards/blueberries">Blueberries</a>
+                <a href="/land-preservation/orchards/blueberries">Blueberries</a>
               </li>
               <li>
-                <a href="/orchards/maple">Maple</a>
+                <a href="/land-preservation/orchards/maple">Maple</a>
               </li>
             </ul>
           </div>
