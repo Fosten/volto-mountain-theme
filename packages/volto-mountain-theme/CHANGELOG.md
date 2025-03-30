@@ -13,6 +13,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- towncrier release notes start -->
 
+## 2.1.0 (2024-03-30)
+
+- Update CHANGELOG.md [fosten]
+- Bump package.json versions to 2.1.0 [fosten]
+- Bump Volto from 18.0.0-alpha.47 to 18.10.1
+- Add RSS to footerbar [fosten]
+
+## 2.0.0 (2024-10-28)
+
+- Bump Volto from 18.0.0-alpha.46 to 18.0.0-alpha.47
+- Update .eslintrc.js and storybook/main.js [fosten]
+- Refactor using cookieplone [fosten]
+
 ## 1.2.0 (2024-10-25)
 
 - Add CHANGELOG.md [fosten]
