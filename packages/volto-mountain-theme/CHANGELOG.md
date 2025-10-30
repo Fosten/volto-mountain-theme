@@ -13,31 +13,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- towncrier release notes start -->
 
-## Unreleased
+## [Unreleased]
 
 - Add Dependabot [fosten]
 - Bump Volto from 18.10.1 to 19.0.0-alpha.4 [fosten]
 
-## 2.1.0 (2024-03-30)
+## [2.1.0] (2024-03-30)
 
 - Update CHANGELOG.md [fosten]
 - Bump package.json versions to 2.1.0 [fosten]
 - Bump Volto from 18.0.0-alpha.47 to 18.10.1
 - Add RSS to footerbar [fosten]
 
-## 2.0.0 (2024-10-28)
+## [2.0.0] (2024-10-28)
 
 - Bump Volto from 18.0.0-alpha.46 to 18.0.0-alpha.47
 - Update .eslintrc.js and storybook/main.js [fosten]
 - Refactor using cookieplone [fosten]
 
-## 1.2.0 (2024-10-25)
+## [1.2.0] (2024-10-25)
 
 - Add CHANGELOG.md [fosten]
 - Add razzle.extend.js and theme.config
 - Update footer links [fosten]
 
-## 1.1.0 (2024-08-21)
+## [1.1.0] (2024-08-21)
 
 - Change footer background-color [fosten]
 - Add sitemap to footerbar [fosten]
@@ -45,17 +45,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Override otp-alert margin-top [fosten]
 - Change className email to site-email [fosten]
 
-## 1.0.0 (2023-08-02)
+## [1.0.0] (2023-08-02)
 
 - Accessibility fix skiplinks [fosten]
 - Accessibility fix table colors contrast [fosten]
 - Add hover colors to nav [fosten]
 
-## 0.2.0 (2023-07-26)
+## [0.2.0] (2023-07-26)
 
 - Add theme folder to components [fosten]
 - Migrate components to theme product [fosten]
 
-## 0.1.0 (2023-08-02)
+## [0.1.0] (2023-08-02)
 
 - Initial commit [fosten]
+
+[Unreleased]: https://github.com/Fosten/volto-mountain-theme/compare/2.1.0...main
+[2.1.0]: https://github.com/Fosten/volto-mountain-theme/releases/tag/2.1.0
+[2.0.0]: https://github.com/Fosten/volto-mountain-theme/releases/tag/2.0.0
+[1.2.0]: https://github.com/Fosten/volto-mountain-theme/releases/tag/1.2.0
+[1.1.0]: https://github.com/Fosten/volto-mountain-theme/releases/tag/1.1.0
+[1.0.0]: https://github.com/Fosten/volto-mountain-theme/releases/tag/1.0.0
+[0.2.0]: https://github.com/Fosten/volto-mountain-theme/releases/tag/0.2.0
+[0.1.0]: https://github.com/Fosten/volto-mountain-theme/releases/tag/0.1.0
+[fosten]: https://github.com/Fosten
