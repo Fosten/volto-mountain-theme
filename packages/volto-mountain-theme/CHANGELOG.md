@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Replace babel-preset-razzle with @plone/babel-preset-razzle [fosten]
 - Add footer links to CHANGELOG.md [fosten]
 - Add Dependabot [fosten]
 - Bump Volto from 18.10.1 to 19.0.0-alpha.26 [fosten]
